@@ -11,9 +11,9 @@ function App() {
       {/* <Home/> */}
       <BrowserRouter>
         <Routes>
-          <Route path='/' element={<Home/>}/>
-          <Route path='/text' element={<Text/>}/>
-          <Route path='/video' element={<Video/>}/>
+          <Route path='/Findtruth' element={<Home/>}/>
+          <Route path='/Findtruth/text' element={<Text/>}/>
+          <Route path='/Findtruth/video' element={<Video/>}/>
         </Routes>
       </BrowserRouter>
     </>
