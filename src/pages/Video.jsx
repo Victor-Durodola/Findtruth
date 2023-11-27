@@ -5,7 +5,7 @@ export default function Video() {
     <>
         <div className="container video-container">
           <div className="inner-container">
-              <Link to="/" className="home-btn"><BiArrowBack /></Link>
+              <Link to="/Findtruth" className="home-btn"><BiArrowBack /></Link>
               <div className="buttons">
                   <div className="button form">Short Video</div>
                   <div className="button form">Medium Video</div>
